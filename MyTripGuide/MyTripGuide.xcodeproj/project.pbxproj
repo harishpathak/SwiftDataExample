@@ -13,6 +13,7 @@
 		685E1CE52AD3C3CC007300D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 685E1CE42AD3C3CC007300D4 /* Preview Assets.xcassets */; };
 		685E1CEC2AD3C5B8007300D4 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685E1CEB2AD3C5B7007300D4 /* Destination.swift */; };
 		685E1CEE2AD3D17D007300D4 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685E1CED2AD3D17D007300D4 /* EditDestinationView.swift */; };
+		685E1CF02AD3E1C0007300D4 /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685E1CEF2AD3E1C0007300D4 /* Place.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		685E1CE42AD3C3CC007300D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		685E1CEB2AD3C5B7007300D4 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
 		685E1CED2AD3D17D007300D4 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
+		685E1CEF2AD3E1C0007300D4 /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				685E1CE12AD3C3CC007300D4 /* Assets.xcassets */,
 				685E1CE32AD3C3CC007300D4 /* Preview Content */,
 				685E1CEB2AD3C5B7007300D4 /* Destination.swift */,
+				685E1CEF2AD3E1C0007300D4 /* Place.swift */,
 			);
 			path = MyTripGuide;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				685E1CDE2AD3C3C7007300D4 /* MyTripGuideApp.swift in Sources */,
 				685E1CEC2AD3C5B8007300D4 /* Destination.swift in Sources */,
 				685E1CEE2AD3D17D007300D4 /* EditDestinationView.swift in Sources */,
+				685E1CF02AD3E1C0007300D4 /* Place.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
